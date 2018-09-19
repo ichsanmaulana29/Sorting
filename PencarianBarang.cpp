@@ -1,6 +1,6 @@
 /*
-	Program    	: Program Pencarian Barang
-  Penulis     : Ichsan Maulana
+ Ichsan Maulana
+ Program Pencarian Barang
 */
 #include<stdio.h>
 #include<string.h>
